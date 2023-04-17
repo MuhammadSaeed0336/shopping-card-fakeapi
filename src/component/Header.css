@@ -1,0 +1,21 @@
+.dpm{
+    width: 16rem;
+}
+.dpm img{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+}
+.crd-details{
+    display: flex;
+    justify-content: space-around;
+}
+.gotobtn{
+    width: 90%;
+}
+.delte-icon{
+    width: 2rem;
+    height: 2rem;
+    color: red;
+    cursor: pointer;
+}
